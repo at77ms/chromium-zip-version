@@ -1,0 +1,2 @@
+https://storage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/999988/
+https://mirrors.huaweicloud.com/chromium-browser-snapshots/Win_x64/884014/
