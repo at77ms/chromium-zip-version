@@ -1,2 +1,2 @@
-https://storage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/999988/
+https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/
 https://mirrors.huaweicloud.com/chromium-browser-snapshots/Win_x64/884014/
